@@ -1,5 +1,12 @@
-objects_read me.txt
- 
+## This is the thin blood film image set used in my PhD thesis and below works. Please cite if you use and publish them. 
+
+[1] Parasite detection and identification for automated thin blood film malaria diagnosis
+FB Tek, AG Dempster, İ Kale
+Computer Vision and Image Understanding 114 (1), 21-32, 138, 2010
+[2] Computer vision for microscopy diagnosis of malaria
+FB Tek, AG Dempster, I Kale, Malaria Journal 8 (1), 153, 2009
+[3] Computerised diagnosis of malaria, FB Tek, University of Westminster, 2007
+
 
 
 
@@ -30,10 +37,6 @@ locating them. type key is follows:
 - Most of the images that are included in these sets were collected by me from real blood smears.  
 - The stained objects in these images were marked by me and may contain errors. 
 
-F. Boray Tek
-f.b.tek@westminster.ac.uk
-boraytek@yahoo.co.uk
-1 June 2006
 
 
 
