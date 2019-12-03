@@ -11,7 +11,7 @@ FB Tek, AG Dempster, I Kale, Malaria Journal 8 (1), 153, 2009
 
 
 
--The stained objects found in the marked images are 
+- The stained objects found in the marked images are 
 labelled in set1, set2.txt. Marking is done as follows:
 
 	1. file=7b_057. type=18 [44,269] [50,267] [54,274] 
@@ -22,7 +22,7 @@ labelled in set1, set2.txt. Marking is done as follows:
 	6. file=7b_057. type=18 [503,446] [508,451] [515,452] 
 	7. file=7b_057. type=18 [571,255] [578,251] [584,257] 
 
--For example here, file name starting with 7b_057 have 7 stained objects 
+- For example here, file name starting with 7b_057 have 7 stained objects 
 (Detected automatically) 
 -These 7 stained objects "types" were marked manually, to label their type and 3 coordinates (x,y)
 locating them. type key is follows:
